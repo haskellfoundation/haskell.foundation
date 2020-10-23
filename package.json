@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-iohk-default",
-  "description": "IOHK's default Gatsby starter",
+  "name": "haskell-foundation",
+  "description": "Haskell Foundation",
   "version": "0.1.4",
-  "author": "Lewis Nelson <lewis.nelson@iohk.io>",
+  "author": "Tomas Vrana <tomas.vrana@iohk.io>",
   "dependencies": {
     "@hot-loader/react-dom": "^16.13.0",
     "@input-output-hk/front-end-core-components": "^1.0.6",
@@ -73,9 +73,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/input-output-hk/gatsby-starter-iohk-default"
+    "url": "https://github.com/input-output-hk/haskell-foundation"
   },
-  "gatsby-starter-iohk-default": {
+  "haskell-foundation": {
     "availableLanguages": [
       {
         "key": "en",

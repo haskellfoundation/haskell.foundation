@@ -1,7 +1,7 @@
 export default {
-  name: 'meta_data',
-  label: 'Meta data',
-  folder: 'resources/content/meta',
+  name: 'contact_page',
+  label: 'contact page',
+  folder: 'resources/content/contact',
   create: false,
   delete: false,
   fields: [
@@ -11,13 +11,13 @@ export default {
       widget: 'string'
     },
     {
-      label: 'Global content',
       name: 'content',
+      label: 'contact page content',
       widget: 'object',
       fields: [
         {
-          name: 'main_title',
-          label: 'Main title',
+          name: 'default_content',
+          label: 'Default content',
           widget: 'string'
         }
       ]

@@ -3,7 +3,7 @@
 The [Gatsby](https://www.gatsbyjs.org/) starter template used by [IOHK](https://iohk.io/) to build front-end web assets.
 
 ```
-gatsby new gatsby-starter-iohk-default https://github.com/input-output-hk/gatsby-starter-iohk-default
+gatsby new haskell-foundation https://github.com/input-output-hk/haskell-foundation
 ```
 
 If you use VisualStudio Code then it's recommended that you download the [code tour](https://github.com/vsls-contrib/code-tour) extension to make use of the guided tours of the codebase. Otherwise the documentation below should be sufficient. The tours will be setup on `npm install`.
@@ -38,7 +38,7 @@ If you use VisualStudio Code then it's recommended that you download the [code t
 
 ## Configuration
 
-The starter can be configured through the `package.json` file under the `gatsby-starter-iohk-default` key. All configuration is safe to delete. The configuration shipped with the starter is the default configuration that is used for missing configuration.
+The starter can be configured through the `package.json` file under the `haskell-foundation` key. All configuration is safe to delete. The configuration shipped with the starter is the default configuration that is used for missing configuration.
 
 | Option | Notes |
 | ------ | ----- |

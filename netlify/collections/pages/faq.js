@@ -1,7 +1,7 @@
 export default {
-  name: 'meta_data',
-  label: 'Meta data',
-  folder: 'resources/content/meta',
+  name: 'faq_page',
+  label: 'faq page',
+  folder: 'resources/content/faq',
   create: false,
   delete: false,
   fields: [
@@ -11,13 +11,13 @@ export default {
       widget: 'string'
     },
     {
-      label: 'Global content',
       name: 'content',
+      label: 'faq page content',
       widget: 'object',
       fields: [
         {
-          name: 'main_title',
-          label: 'Main title',
+          name: 'default_content',
+          label: 'Default content',
           widget: 'string'
         }
       ]

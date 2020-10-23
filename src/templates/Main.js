@@ -1,8 +1,6 @@
 import React, { Fragment } from 'react'
 import PropTypes from 'prop-types'
 import styled from 'styled-components'
-import Footer from '@input-output-hk/front-end-site-components/components/Footer'
-import Theme from '@input-output-hk/front-end-core-components/components/Theme'
 import Container from '@material-ui/core/Container'
 import Header from '../components/Header'
 
@@ -20,11 +18,7 @@ const Main = ({ children }) => (
       {children}
     </StyledMain>
     <Container maxWidth='lg'>
-      <Theme.Consumer>
-        {({ theme }) => (
-          <Footer theme={theme.palette.type} variant='cardano' />
-        )}
-      </Theme.Consumer>
+      _
     </Container>
   </Fragment>
 )

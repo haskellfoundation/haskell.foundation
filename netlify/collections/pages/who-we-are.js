@@ -1,7 +1,7 @@
 export default {
-  name: 'meta_data',
-  label: 'Meta data',
-  folder: 'resources/content/meta',
+  name: 'who-we-are_page',
+  label: 'who-we-are page',
+  folder: 'resources/content/who-we-are',
   create: false,
   delete: false,
   fields: [
@@ -11,13 +11,13 @@ export default {
       widget: 'string'
     },
     {
-      label: 'Global content',
       name: 'content',
+      label: 'who-we-are page content',
       widget: 'object',
       fields: [
         {
-          name: 'main_title',
-          label: 'Main title',
+          name: 'default_content',
+          label: 'Default content',
           widget: 'string'
         }
       ]

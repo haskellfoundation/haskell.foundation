@@ -5,7 +5,7 @@
     {
       "file": "package.json",
       "line": 85,
-      "description": "Localization is interfaced with via the configuration in `package.json`. See [configuration documentation](https://github.com/input-output-hk/gatsby-starter-iohk-default#configuration) for full reference.\n\nLets start by adding a new language in `availableLanguages` after `en`. First of all stop any processes running the site such as `npm start` etc.\n\n```JavaScript\n{\n  \"key\": \"fr\",\n  \"label\": \"Français\",\n  \"flag\": \"🇫🇷\",\n  \"locale\": \"fr_FR\"\n}\n```"
+      "description": "Localization is interfaced with via the configuration in `package.json`. See [configuration documentation](https://github.com/input-output-hk/haskell-foundation#configuration) for full reference.\n\nLets start by adding a new language in `availableLanguages` after `en`. First of all stop any processes running the site such as `npm start` etc.\n\n```JavaScript\n{\n  \"key\": \"fr\",\n  \"label\": \"Français\",\n  \"flag\": \"🇫🇷\",\n  \"locale\": \"fr_FR\"\n}\n```"
     },
     {
       "file": "src/pages/index.js",

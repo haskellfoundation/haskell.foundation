@@ -14,10 +14,12 @@ const GlobalContentQuery = ({ render }) => (
                 relativePath,
                 childMarkdownRemark{
                   frontmatter {
-                    content {
-                      main_title
-                      select_language
-                      select_theme
+                    global_content {
+                      global_main_title
+                      global_navigation {
+                        global_navigation_item_title
+                        global_navigation_item_link
+                      }
                     }
                   }
                 }
@@ -28,7 +30,7 @@ const GlobalContentQuery = ({ render }) => (
         render={({ allFile }) => {
           const content = allFile.nodes.filter(node => node.relativePath === `content/global/global-${lang}.md`).shift()
           if (!content || !content.childMarkdownRemark) throw new Error(`No global translations found for language ${lang}`)
-          return render(content.childMarkdownRemark.frontmatter.content)
+          return render(content.childMarkdownRemark.frontmatter.global_content)
         }}
       />
     )}

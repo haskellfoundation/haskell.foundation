@@ -1,7 +1,7 @@
 export default {
-  name: 'meta_data',
-  label: 'Meta data',
-  folder: 'resources/content/meta',
+  name: 'news_page',
+  label: 'news page',
+  folder: 'resources/content/news',
   create: false,
   delete: false,
   fields: [
@@ -11,13 +11,13 @@ export default {
       widget: 'string'
     },
     {
-      label: 'Global content',
       name: 'content',
+      label: 'news page content',
       widget: 'object',
       fields: [
         {
-          name: 'main_title',
-          label: 'Main title',
+          name: 'default_content',
+          label: 'Default content',
           widget: 'string'
         }
       ]

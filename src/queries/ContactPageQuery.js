@@ -3,19 +3,20 @@ import PropTypes from 'prop-types'
 import { StaticQuery, graphql } from 'gatsby'
 import Language from '@input-output-hk/front-end-core-components/components/Language'
 
-const IndexPageQuery = ({ render }) => (
+const ContactPageQuery = ({ render }) => (
   <Language.Consumer>
     {({ key: lang }) => (
       <StaticQuery
         query={graphql`
           query {
-            allFile(filter:{relativePath:{glob:"content/pages/index/*.md"}}) {
+            allFile(filter:{relativePath:{glob:"content/pages/contact/*.md"}}) {
               nodes{
                 relativePath,
                 childMarkdownRemark{
                   frontmatter {
-                    home_content {
-                      home_intro
+                    contact_content {
+                      contact_page_title
+                      contact_page_content
                     }
                   }
                 }
@@ -24,17 +25,17 @@ const IndexPageQuery = ({ render }) => (
           }
         `}
         render={({ allFile }) => {
-          const content = allFile.nodes.filter(node => node.relativePath === `content/pages/index/index-${lang}.md`).shift()
-          if (!content || !content.childMarkdownRemark) throw new Error(`No index translations found for language ${lang}`)
-          return render(content.childMarkdownRemark.frontmatter.home_content)
+          const content = allFile.nodes.filter(node => node.relativePath === `content/pages/contact/contact-${lang}.md`).shift()
+          if (!content || !content.childMarkdownRemark) throw new Error(`No contact translations found for language ${lang}`)
+          return render(content.childMarkdownRemark.frontmatter.contact_content)
         }}
       />
     )}
   </Language.Consumer>
 )
 
-IndexPageQuery.propTypes = {
+ContactPageQuery.propTypes = {
   render: PropTypes.func.isRequired
 }
 
-export default IndexPageQuery
+export default ContactPageQuery

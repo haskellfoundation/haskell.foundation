@@ -41,7 +41,7 @@ function getConfig () {
     routes: []
   }
 
-  const customConfig = packageConfig['gatsby-starter-iohk-default'] || {}
+  const customConfig = packageConfig['haskell-foundation'] || {}
 
   return mergeConfig(defaultConfig, customConfig)
 }

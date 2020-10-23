@@ -1,11 +1,11 @@
 {
   "title": "Getting started",
-  "description": "Getting started with the gatsby-starter-iohk-default Gatsby starter",
+  "description": "Getting started with the haskell-foundation Gatsby starter",
   "steps": [
     {
       "file": "package.json",
       "line": 77,
-      "description": "Welcome to the IOHK default Gatsby starter. First of all you may want to review the default configuration. [Full configuration reference](https://github.com/input-output-hk/gatsby-starter-iohk-default#configuration)"
+      "description": "Welcome to the IOHK default Gatsby starter. First of all you may want to review the default configuration. [Full configuration reference](https://github.com/input-output-hk/haskell-foundation#configuration)"
     },
     {
       "file": "src/pages/index.js",
@@ -35,7 +35,7 @@
     {
       "file": "resources/content/meta/index-en.md",
       "line": 7,
-      "description": "Here you can modify the meta data for the site and it's pages. This file contains the meta data for the English version of the home page. The Netlify CMS is configured to allow all meta data to be edited. [Meta data documentation](https://github.com/input-output-hk/gatsby-starter-iohk-default#meta-data)"
+      "description": "Here you can modify the meta data for the site and it's pages. This file contains the meta data for the English version of the home page. The Netlify CMS is configured to allow all meta data to be edited. [Meta data documentation](https://github.com/input-output-hk/haskell-foundation#meta-data)"
     },
     {
       "file": "src/pages/index.js",
