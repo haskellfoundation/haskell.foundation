@@ -16,6 +16,15 @@ const IndexPageQuery = ({ render }) => (
                   frontmatter {
                     home_content {
                       home_intro
+                      home_claim
+                      home_goals {
+                        home_goals_title
+                        home_goals_items {
+                          home_goals_item_body
+                          home_goals_item_icon
+                        }
+                      }
+                      home_body
                     }
                   }
                 }

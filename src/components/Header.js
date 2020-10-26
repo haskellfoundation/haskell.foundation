@@ -6,10 +6,19 @@ import { Grid, Box, Typography } from '@material-ui/core'
 import GlobalContentQuery from '../queries/GlobalContentQuery'
 import Link from '@input-output-hk/front-end-core-components/components/Link'
 
-const Title = styled.p`
-  margin: 1rem 0;
+const Logo = styled(Link)`
+  color:white;
+  img {
+    vertical-align:top;
+    margin:1.35rem 0;
+  }
+`
+
+const Title = styled.div`
+  margin: 1.3rem 1rem;
   font-weight: bold;
-  font-size: 2.4rem;
+  display:inline-block;
+  font-size: 2.6rem;
 `
 
 const FlexGrid = styled(Grid)`
@@ -29,10 +38,7 @@ ul {
     padding:1.5rem 0;
     text-transform: none;
     display:inline-block;
-    &.active a {
-      border-radius:0px;
-      border-bottom:.2rem solid ${({ theme }) => theme.palette.primary.main};
-    }
+    
     a {
       border-radius:50px;
       display:inline-block;
@@ -40,10 +46,9 @@ ul {
       padding:.6rem 0;
       margin-left:1.4rem;
       margin-right:1.4rem;
-      &.contact {
-        padding-left:2rem;
-        padding-right:2rem;
-        color: ${({ theme }) => theme.palette.text.inverted};
+      color:white;
+      &.active {
+        color:cyan;
       }
     }
     &:last-of-type {
@@ -67,11 +72,14 @@ export default () => (
     render={(content) => (
       <AppBar position='static'>
         <Container maxWidth='lg'>
-          <Box marginTop={2} marginBottom={2}>
+          <Box>
             <Grid container>
               <FlexGrid item xs={12} md={4}>
-                <Box flex={1} display='flex' flexDirection='column' justifyContent='center'>
-                  <Title>{content.global_main_title}</Title>
+                <Box flex={1} display='flex'>
+                  <Logo href='/'>
+                    <img src='/images/haskell-logo-white.svg' alt='' width='60' />
+                    <Title>{content.global_main_title}</Title>
+                  </Logo>
                 </Box>
               </FlexGrid>
               <FlexGrid item xs={12} md={8}>
