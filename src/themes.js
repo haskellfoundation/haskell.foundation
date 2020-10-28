@@ -98,30 +98,30 @@ const theme = extendDefaultTheme({
   shape: {
     borderRadius: 30
   },
-  shadows: ['0', '0', '0', 'transparent'],
+  shadows: [ '0', '0', '0', 'transparent' ],
   typography: {
-    baseFontSize: 20,
+    baseFontSize: 18,
     lineHeight: 1.6,
     fontWeight: 400,
     fontFamily: 'Chivo, sans-serif',
     fontDisplay: 'swap',
     googleFontsURL: 'https://fonts.googleapis.com/css?family=Chivo:300,400,700',
     h1: {
-      fontSize: 3.4,
-      fontWeight: 700,
+      fontSize: 2,
+      fontWeight: 300,
       lineHeight: 1.1,
-      letterSpacing: 0,
+      letterSpacing: -0.1,
       textTransform: 'capitalize'
     },
     h2: {
-      fontSize: 1.8,
-      fontWeight: 700,
+      fontSize: 1.4,
+      fontWeight: 500,
       letterSpacing: 0.05,
       lineHeight: 1.2,
       textTransform: 'capitalize'
     },
     h3: {
-      fontSize: 1.44,
+      fontSize: 1.3,
       fontWeight: 700,
       lineHeight: 1.2,
       letterSpacing: 0.05,
@@ -154,7 +154,7 @@ const theme = extendDefaultTheme({
       lineHeight: 1.7
     },
     small: {
-      fontSize: 0.75,
+      fontSize: 0.85,
       fontWeight: 400,
       letterSpacing: 0.05,
       lineHeight: 1.7,
@@ -180,4 +180,4 @@ const theme = extendDefaultTheme({
   }
 })
 
-export const getThemes = () => [{ key: 'cardano', config: theme }]
+export const getThemes = () => [ { key: 'cardano', config: theme } ]

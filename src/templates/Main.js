@@ -3,6 +3,7 @@ import PropTypes from 'prop-types'
 import styled from 'styled-components'
 import Container from '@material-ui/core/Container'
 import Header from '../components/Header'
+import Footer from '../components/Footer'
 
 const StyledMain = styled.main`
   position: relative;
@@ -18,7 +19,7 @@ const Main = ({ children }) => (
       {children}
     </StyledMain>
     <Container maxWidth='lg'>
-      _
+      <Footer />
     </Container>
   </Fragment>
 )
