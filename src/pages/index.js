@@ -7,7 +7,15 @@ import Layout from '../components/Layout'
 import IndexPageQuery from '../queries/IndexPageQuery'
 import Markdown from '@input-output-hk/front-end-core-components/components/Markdown'
 import styled from 'styled-components'
-import { FaHeart, FaLockOpen } from 'react-icons/fa'
+import { FaHeart, FaLockOpen, FaUserFriends, FaCubes, FaUser } from 'react-icons/fa'
+
+const icons = {
+  heart: <FaHeart />,
+  lock: <FaLockOpen />,
+  users: <FaUserFriends />,
+  cubes: <FaCubes />,
+  user: <FaUser />
+}
 
 const IntroBlock = styled(Box)`
 background: ${({ theme }) => theme.palette.primary.main} url(/images/pattern.png) center;
@@ -26,6 +34,12 @@ background: #eee;
   background-position:80vw 0;
   background-size:200%;
 }
+`
+
+const GoalsBlock = styled(Box)`
+background: url(/images/side-blue.svg) right no-repeat;
+background-size:200%;
+background-position:70vw 0;
 `
 
 const GoalItem = styled(Box)`
@@ -48,9 +62,9 @@ export default () => (
         <IntroBlock>
           <Box paddingTop={10} paddingBottom={0} className='inner'>
             <Container maxWidth='lg'>
-              <Grid container spacing={2}>
+              <Grid container spacing={4}>
                 <Grid item md={5}>
-                  <img src='https://via.placeholder.com/450x300' />
+                  <iframe width='100%' height='315' src='https://www.youtube.com/embed/re96UgMk6GQ' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
                 </Grid>
                 <Grid item md={5}>
                   <Typography variant='body2' component='span'><Markdown source={content.home_intro} /></Typography>
@@ -59,7 +73,8 @@ export default () => (
             </Container>
           </Box>
         </IntroBlock>
-        <ClaimBar>
+        <br />
+        <ClaimBar marginTop={0}>
           <Box marginTop={0} paddingTop={4} paddingBottom={4} className='inner'>
             <Container maxWidth='lg'>
               <Grid container spacing={2}>
@@ -70,21 +85,25 @@ export default () => (
             </Container>
           </Box>
         </ClaimBar>
-        <Container maxWidth='lg'>
-          <Box marginTop={6} marginBottom={10}>
-            <Grid container spacing={2}>
-              <Grid item xs={7}>
-                <Typography variant='h5' component='h3'><Markdown source={content.home_goals.home_goals_title} /></Typography>
-                {content.home_goals.home_goals_items.map((item, index) => (
-                  <GoalItem display='flex' key={index}>
-                    <Icon><FaHeart /></Icon>
-                    <Typography variant='body2' component='span'><Markdown source={item.home_goals_item_body} /></Typography>
-                  </GoalItem>
-                ))}
+        <GoalsBlock>
+          <Container maxWidth='lg'>
+            <Box marginTop={4} marginBottom={3}>
+              <Grid container spacing={2}>
+                <Grid item xs={7}>
+                  <Typography variant='h5' component='h3'><Markdown source={content.home_goals.home_goals_title} /></Typography>
+                  {content.home_goals.home_goals_items.map((item, index) => (
+                    <GoalItem display='flex' key={index}>
+                      <Icon>{icons[item.home_goals_item_icon]}</Icon>
+                      <Typography variant='body2' component='span'><Markdown source={item.home_goals_item_body} /></Typography>
+                    </GoalItem>
+                  ))}
+                </Grid>
               </Grid>
-            </Grid>
-          </Box>
-          <Box marginTop={6} marginBottom={10}>
+            </Box>
+          </Container>
+        </GoalsBlock>
+        <Container maxWidth='lg'>
+          <Box marginTop={0} marginBottom={10}>
             <Grid container spacing={2}>
               <Grid item xs={8}>
                 <Markdown source={content.home_body} />

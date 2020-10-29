@@ -1,10 +1,8 @@
 import React from 'react'
 import styled from 'styled-components'
-import AppBar from '@material-ui/core/AppBar'
 import Container from '@material-ui/core/Container'
 import { Grid, Box, Typography } from '@material-ui/core'
 import GlobalContentQuery from '../queries/GlobalContentQuery'
-import Link from '@input-output-hk/front-end-core-components/components/Link'
 import { FaTwitter } from 'react-icons/fa'
 
 const Wrap = styled(Box)`

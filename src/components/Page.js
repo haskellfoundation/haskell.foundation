@@ -23,7 +23,7 @@ const Page = ({ children, title }) => {
             </Grid>
             <Grid item lg={9}>
               <Box marginTop={1} marginBottom={0}>
-              {children}
+                {children}
               </Box>
             </Grid>
           </Grid>
