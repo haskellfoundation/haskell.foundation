@@ -16,19 +16,19 @@ home_content:
     home_goals_items:
       - home_goals_item_body: |
           **Faithfulness to Haskell’s founding design principles.** Haskell’s design puts principle ahead of expediency by cleaving closely to the principles of purely functional programming. 
-        home_goals_item_icon: /
+        home_goals_item_icon: heart
       - home_goals_item_body: |
           **Open source.** All Haskell Foundation efforts are open source.
-        home_goals_item_icon: /
+        home_goals_item_icon: lock
       - home_goals_item_body: |
           **Empowering the community.** HF sees itself as a means to augment, celebrate, and coordinate the contributions and leadership of Haskell’s vibrant community.
-        home_goals_item_icon: /
+        home_goals_item_icon: users
       - home_goals_item_body: |
           **Openness, friendliness, and diversity.** For many, Haskell is more a way of life than a programming language. All are welcome, all can contribute. To this end we have adopted the Haskell Guidelines For Respectful Communication.
-        home_goals_item_icon: /
+        home_goals_item_icon: cubes
       - home_goals_item_body: |
           **Transparency.** All technical decisions related to HF’s open source projects will be transparent.
-        home_goals_item_icon: /
+        home_goals_item_icon: user
 
   home_body: |
     Haskell’s slogan of “avoid success at all costs” was a clever and cheeky way of saying that innovation and research in programming languages, especially in functional programming, needed some insulation to succeed. Ideas that were not perfectly understood needed iteration to fully develop in the minds of language innovators and users. By avoiding the “success at all costs” mentality of other language communities, the Haskell community bought time and space to try ideas that were not perfectly understood at first. Since then, the Haskell language has sparked so many lasting innovations in language design that its impact is now beyond doubt. 
