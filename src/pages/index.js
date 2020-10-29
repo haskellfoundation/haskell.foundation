@@ -64,7 +64,7 @@ export default () => (
             <Container maxWidth='lg'>
               <Grid container spacing={4}>
                 <Grid item md={5}>
-                  <iframe width='100%' height='315' src='https://www.youtube.com/embed/re96UgMk6GQ' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
+                  <iframe width='100%' height='315' src='https://www.youtube.com/embed/re96UgMk6GQ' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' />
                 </Grid>
                 <Grid item md={5}>
                   <Typography variant='body2' component='span'><Markdown source={content.home_intro} /></Typography>
