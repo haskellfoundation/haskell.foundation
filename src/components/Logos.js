@@ -18,7 +18,7 @@ const LogoContainer = styled.div`
   justify-content: space-around;
 `
 const LogoItem = styled.div`
-  width: 200px;
+  width: 150px;
   height: 80px;
   margin-top: 10px;
   text-align: center;
