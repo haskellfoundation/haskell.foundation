@@ -32,7 +32,7 @@ const LogoItem = styled.div`
   @media screen and (max-width: 970px) {
     width: 140px;
     height: 80px;
-    margin-top: 10px;
+    margin: 10px;
     text-align: center;
   }
 `
@@ -41,7 +41,6 @@ export default () => (
   <GlobalContentQuery
     render={(content) => (
       <LogoContainer>
-        {console.log(content.footer_logos)}
         {
           content.footer_logos.map((logo) => {
             return (
