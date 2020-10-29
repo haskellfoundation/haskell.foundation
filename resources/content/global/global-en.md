@@ -17,5 +17,23 @@ global_content:
       global_navigation_item_link: /resources/
     - global_navigation_item_title: FAQ
       global_navigation_item_link: /faq/
-      
+  footer_logos:
+    - name: Github
+      image: "./logos/github.png"
+      link: "https://github.com"
+    - name: IOHK
+      image: "./logos/iohk.png"
+      link: "https://iohk.io"
+    - name: Skills Matter
+      image: "./logos/skills-matter.png"
+      link: "https://skillsmatter.com"
+    - name: Tweag
+      image: "./logos/tweag.png"
+      link: "https://tweag.io"
+    - name: Well Typed
+      image: "./logos/well-typed.png"
+      link: "https://well-typed.com"
+    - name: Obsidian Systems
+      image: "./logos/obsidian.png"
+      link: "https://obsidian.systems/"
 ---

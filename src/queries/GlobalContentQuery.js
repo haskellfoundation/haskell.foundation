@@ -20,6 +20,17 @@ const GlobalContentQuery = ({ render }) => (
                         global_navigation_item_title
                         global_navigation_item_link
                       }
+                      footer_logos {
+                          name
+                          link
+                          image {
+                          childImageSharp {
+                            fluid {
+                              ...GatsbyImageSharpFluid
+                            }
+                          }
+                        }
+                      }
                     }
                   }
                 }
