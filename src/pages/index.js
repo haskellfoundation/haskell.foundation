@@ -3,6 +3,7 @@ import Box from '@material-ui/core/Box'
 import Container from '@material-ui/core/Container'
 import Grid from '@material-ui/core/Grid'
 import Typography from '@material-ui/core/Typography'
+import Hidden from '@material-ui/core/Hidden'
 import Layout from '../components/Layout'
 import IndexPageQuery from '../queries/IndexPageQuery'
 import Markdown from '@input-output-hk/front-end-core-components/components/Markdown'
@@ -21,9 +22,12 @@ const IntroBlock = styled(Box)`
 background: ${({ theme }) => theme.palette.primary.main} url(/images/pattern.png) center;
 background-size:cover;
 color:white;
-.inner {
-  background: url(/images/side.svg) right no-repeat;
-  background-position:80vw 0;
+
+${({ theme }) => theme.breakpoints.up('md')} {
+  .inner {
+    background: url(/images/side.svg) right no-repeat;
+    background-position:80vw 0;
+  }
 }
 `
 
@@ -60,11 +64,19 @@ export default () => (
     render={(content) => (
       <Layout>
         <IntroBlock>
-          <Box paddingTop={10} paddingBottom={0} className='inner'>
+          <Box paddingTop={3} paddingBottom={0} className='inner'>
+            <Hidden smDown>
+              <br />
+            </Hidden>
             <Container maxWidth='lg'>
               <Grid container spacing={4}>
-                <Grid item md={5}>
-                  <iframe width='100%' height='315' src='https://www.youtube.com/embed/re96UgMk6GQ' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' />
+                <Grid item md={5} xs={12}>
+                  <Hidden mdUp>
+                    <iframe width='100%' height='450' src='https://www.youtube.com/embed/re96UgMk6GQ' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' />
+                  </Hidden>
+                  <Hidden smDown>
+                    <iframe width='100%' height='315' src='https://www.youtube.com/embed/re96UgMk6GQ' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' />
+                  </Hidden>
                 </Grid>
                 <Grid item md={5}>
                   <Typography variant='body2' component='span'><Markdown source={content.home_intro} /></Typography>
