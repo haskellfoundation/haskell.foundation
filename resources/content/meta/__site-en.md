@@ -1,18 +1,18 @@
 ---
 title: En (English) site content
 head:
-  title: IOHK Gatsby Starter
+  title: Haskell Foundation
   meta:
-    - { name: "description", content: "The Gatsby starter template for IOHK. With CI, CMS, localisation and theming baked in.", file: "" }
+    - { name: "description", content: "Haskell Foundation", file: "" }
     - { name: "language", content: "en", file: "" }
     - { name: "twitter:card", content: "summary", file: "" }
-    - { name: "twitter:title", content: "Welcome to the IOHK gatsby starter template", file: "" }
-    - { name: "twitter:description", content: "The Gatsby starter template for IOHK. With CI, CMS, localisation and theming baked in.", file: "" }
+    - { name: "twitter:title", content: "Haskell Foundation", file: "" }
+    - { name: "twitter:description", content: "Haskell Foundation", file: "" }
     - { name: "twitter:site", content: "@inputoutputhk", file: "" }
     - { name: "twitter:creator", content: "@inputoutputhk", file: "" }
-    - { name: "og:title", content: "Welcome to the IOHK gatsby starter template", file: "" }
+    - { name: "og:title", content: "Haskell Foundation", file: "" }
     - { name: "og:type", content: "website", file: "" }
-    - { name: "og:description", content: "The Gatsby starter template for IOHK. With CI, CMS, localisation and theming baked in.", file: "" }
-    - { name: "og:site_name", content: "IOHK Gatsby Starter", file: "" }
+    - { name: "og:description", content: "Haskell Foundation", file: "" }
+    - { name: "og:site_name", content: "Haskell Foundation", file: "" }
     - { name: "robots", content: "index,follow", file: "" }
 ---
