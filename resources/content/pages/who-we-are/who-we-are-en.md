@@ -3,23 +3,17 @@ about_title: en (English) who-we-are page content
 about_content:
   about_page_title: Who We Are
   about_page_content: |
-    Name Pending, Executive Director
-
-    This paragraph will contain a photo and short bio of our chosen Executive Director.
+    | ![photo](../../images/blank.png)                                                         |
+    |------------------------------------------------------------------------------------------|
+    | Name Pending, Executive Director                                                         |
+    | his paragraph will contain a photo and short bio of our chosen Executive Director.       |
 
     ### The Haskell Foundation Interim Board of Directors
 
-    #### Simon Peyton-Jones
-
-    Placeholder for SPJ bio and photo.
-
-    #### Simon Marlow
-
-    Placeholder for Simon Marlow bio and photo.
-
-    #### Edward Kmett
-
-    Placeholder for Edward Kmett bio and photo.
+    |![SPJ photo](../../images/blank.png)|![SM photo](../../images/blank.png) |![SM photo](../../images/blank.png) |
+    |------------------------------------|------------------------------------|------------------------------------|
+    | Simon Peyton-Jones                 | Simon Marlow                       | Edward Kmett                       |
+    | Placeholder for SPJ bio and photo. | Placeholder for SPJ bio and photo. | Placeholder for SPJ bio and photo. |
 
     ### Affiliated Committees
 
