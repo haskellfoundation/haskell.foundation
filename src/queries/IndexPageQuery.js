@@ -15,6 +15,7 @@ const IndexPageQuery = ({ render }) => (
                 childMarkdownRemark{
                   frontmatter {
                     home_content {
+                      home_video_id
                       home_intro
                       home_claim
                       home_goals {

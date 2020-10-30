@@ -1,6 +1,7 @@
 ---
 home_title: en (English) index page content
 home_content:
+  home_video_id: re96UgMk6GQ
   home_intro: |
     Haskell is not “just another programming language”: it embodies a radical and elegant attack on the entire enterprise of writing software. 
     

@@ -72,10 +72,10 @@ export default () => (
               <Grid container spacing={4}>
                 <Grid item md={5} xs={12}>
                   <Hidden mdUp>
-                    <iframe width='100%' height='450' src='https://www.youtube.com/embed/re96UgMk6GQ' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' />
+                    <iframe width='100%' height='450' src={`https://www.youtube.com/embed/${content.home_video_id}`} allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' />
                   </Hidden>
                   <Hidden smDown>
-                    <iframe width='100%' height='315' src='https://www.youtube.com/embed/re96UgMk6GQ' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' />
+                    <iframe width='100%' height='315' src={`https://www.youtube.com/embed/${content.home_video_id}`} allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' />
                   </Hidden>
                 </Grid>
                 <Grid item md={5}>
