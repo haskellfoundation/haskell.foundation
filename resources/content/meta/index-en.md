@@ -1,8 +1,8 @@
 ---
 title: en (English) site content
 head:
-  title: Home
+  title: Haskell Foundation - Home
   meta:
-    - { name: "twitter:title", content: "Home", file: "" }
-    - { name: "og:title", content: "Home", file: "" }
+    - { name: "twitter:title", content: "Haskell Foundation - Home", file: "" }
+    - { name: "og:title", content: "Haskell Foundation - Home", file: "" }
 ---

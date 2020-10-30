@@ -1,8 +1,8 @@
 ---
 title: en (English) site content
 head:
-  title: FAQ
+  title: FAQ - Haskell Foundation
   meta:
-    - { name: "twitter:title", content: "FAQ", file: "" }
-    - { name: "og:title", content: "FAQ", file: "" }
+    - { name: "twitter:title", content: "FAQ - Haskell Foundation", file: "" }
+    - { name: "og:title", content: "FAQ - Haskell Foundation", file: "" }
 ---

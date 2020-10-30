@@ -19,8 +19,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'IOHK Gatsby Starter',
-        short_name: 'IOHK Starter',
+        name: 'Haskell Foundation',
+        short_name: 'Haskell Foundation',
         start_url: '/',
         background_color: '#131325',
         theme_color: '#131325',
