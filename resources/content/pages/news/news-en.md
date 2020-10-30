@@ -3,7 +3,7 @@ news_title: en (English) news page content
 news_content:
   news_page_title: News
   news_page_content: |
-    ### Check us out on Twitter
+    ### Check us out on [Twitter](https://twitter.com/simonpj0)
 
     Simon Peyton-Jones Announces The Haskell Foundation
 
