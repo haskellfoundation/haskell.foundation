@@ -16,15 +16,15 @@ donations_content:
 
     ### Enterprise Support Tiers
 
-      | ![Functor tier](../../../images/functor.png) | ![Applicative tier](../../../images/applicative.png) | ![Monad tier](../../../images/monad.png) |
+    | ![Functor tier](../../../images/functor.png)      | ![Applicative tier](../../../images/applicative.png) | ![Monad tier](../../../images/monad.png) |
     | --------------------- | ------------------------- | ------------------------ |
-    | Receive ongoing | Have your logo and story | All of the benefits of |
-    | acknowledgements on | featured in the Supporter | Functor and Applicative |
-    | social media channels | Spotlight on the website and | memberships, with the addition |
-    | and have a small logo | newsletter, a medium- sized | of a full interview for the |
-    |  displayed on the HF | logo displayed on the HF | Haskell Foundation blog, as |
-    |  website. | website, and receive ongoing | well as having your |
-    | | recognition on our social media pages. | logo prominently displayed on the HF website. |
+    | Receive ongoing       | Have your logo and story               | All of the benefits of |
+    | acknowledgements on   | featured in the Supporter              | Functor and Applicative |
+    | social media channels | Spotlight on the website and           | memberships, with the addition |
+    | and have a small logo | newsletter, a medium- sized            | of a full interview for the |
+    | displayed on the HF   | logo displayed on the HF               | Haskell Foundation blog, as |
+    | website.              | website, and receive ongoing           | well as having your |
+    |                       | recognition on our social media pages. | logo prominently displayed on the HF website. |
 
     ### In-Kind Support
 
