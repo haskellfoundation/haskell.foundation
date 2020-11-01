@@ -56,6 +56,21 @@ about_content:
     |IRIS Connect video platform which makes extensive use of Haskell  |
     |in the back end.                                                  |
 
+    | ![Gabriele Keller](../../images/board-bio/gk.png) |
+    |--|
+    |**Gabriele Keller**|
+    |I’m a Professor of Software Technology in the Department of       |
+    |Information and Computing Sciences. My research focuses on how    |
+    |programming languages can be used to improve the quality of       |
+    |software. Conventional software testing is very important, but    |
+    |can’t guarantee the absence of errors. We are addressing this     |
+    |problem in our research on developing and using programming       |
+    |languages that are based on mathematical theory, so we can prove  |
+    |that a program will work in all scenarios. We call it             |
+    |‘correctness by construction’. The real world significance is     |
+    |obvious: it saves a lot of time and it eliminates errors so which |
+    |company wouldn’t want it?                                         |
+
     | ![Jasper Van der Jeugt](../../images/board-bio/jv.png) |
     |--|
     |**Jasper Van er Jeugt**|
@@ -111,6 +126,20 @@ about_content:
     |behind Facebook's open source Haxl project, a Haskell library     |
     |that simplifies access to remote data.                            |
     [source](https://en.wikipedia.org/wiki/Simon_Marlow)
+
+    | ![Lennart Augustsson](../../images/board-bio/la.png) |
+    |--|
+    |**Lennart Augustsson**|
+    |Lennart Augustsson is a Swedish computer scientist. He was        |
+    |previously a lecturer at the Computing Science Department at      |
+    |Chalmers University of Technology. His research field is          |
+    |functional programming and implementations of functional          |
+    |languages.                                                        |
+    |                                                                  |
+    |Augustsson has worked for Carlstedt Research and Technology,      |
+    |Sandburst, Credit Suisse, Standard Chartered Bank, Facebook, X    |
+    |Development, Google and is currently employed by Epic Games.      |
+    [source](https://en.wikipedia.org/wiki/Lennart_Augustsson)
 
     ### Affiliated Committees and Projects
 
