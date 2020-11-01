@@ -56,6 +56,15 @@ about_content:
     |IRIS Connect video platform which makes extensive use of Haskell  |
     |in the back end.                                                  |
 
+    | ![Jasper Van der Jeugt](../../images/board-bio/jv.png) |
+    |--|
+    |**Jasper Van er Jeugt**|
+    |Jasper is a Principal Engineer at Fugue, a cloud security startup.|
+    |He has been deeply involved in the Haskell community for over ten |
+    |years, contributing as open source maintainer as well as community|
+    |organizer, with efforts like ZuriHac and Summer of Haskell.  He   |
+    |currently chairs the Haskell.org committee.                       |
+
     | ![Edward Kmett](../../images/board-bio/ed.kmett.png) |
     |--|
     |**Edward Kmett**|
