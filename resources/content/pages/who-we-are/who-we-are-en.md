@@ -31,7 +31,7 @@ about_content:
 
      -  The [Haskell IDE Team](https://github.com/haskell/haskell-language-server)
      -  The [GHC Steering Committee](https://github.com/ghc-proposals/ghc-proposals)
-     -  [Haskell Weekly News](https://haskellweekly.news/)
+     -  [Haskell Weekly](https://haskellweekly.news/)
 
     The following groups are in the process of affiliating.  This means they
     endorse the Haskell Foundation but are still in the process of adopting the
