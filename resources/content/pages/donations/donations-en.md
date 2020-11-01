@@ -13,12 +13,28 @@ donations_content:
 
     Contact *sponsorship@haskell.foundation* to find out more about how you can support Haskell and the Haskell Foundation.
 
+
     ### Enterprise Support Tiers
 
-    ![Enterprise Support Tiers](https://i.imgur.com/SSexCfU.png)
+      | ![Functor tier](../../../images/functor.png) | ![Applicative tier](../../../images/applicative.png) | ![Monad tier](../../../images/monad.png) |
+    | --------------------- | ------------------------- | ------------------------ |
+    | Receive ongoing | Have your logo and story | All of the benefits of |
+    | acknowledgements on | featured in the Supporter | Functor and Applicative |
+    | social media channels | Spotlight on the website and | memberships, with the addition |
+    | and have a small logo | newsletter, a medium- sized | of a full interview for the |
+    |  displayed on the HF | logo displayed on the HF | Haskell Foundation blog, as |
+    |  website. | website, and receive ongoing | well as having your |
+    | | recognition on our social media pages. | logo prominently displayed on the HF website. |
 
     ### In-Kind Support
 
     Non-financial contributions to HF are very welcome. As a volunteer-based organization, the **Haskell Foundation** needs volunteers who can work on software, documentation, promotion, and other tasks to support the HF affiliated projects and the Haskell community. Individuals who contribute their own time or on behalf of their company are the backbone of our organization. Please reach out to us at contact@haskell.foundation to learn more about how you can volunteer or offer in-kind support.
 
+    ### Individual Support
+
+    If you are an individual looking to donate, please contact us directly at *contact@haskell.foundation*. We have many great projects in need of in-kind support or financial contributions. We do not have donor tiers for individuals at this time.
+
+    ### How to Donate
+
+    Contact us directly at *donations@haskell.foundation* to find out more about how you can support Haskell and the **Haskell Foundation**.
 ---
