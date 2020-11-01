@@ -32,9 +32,9 @@ donations_content:
 
     ### Individual Support
 
-    If you are an individual looking to donate, please contact us directly at *contact@haskell.foundation*. We have many great projects in need of in-kind support or financial contributions. We do not have donor tiers for individuals at this time.
+    If you are an individual looking to donate, please contact us directly at [contact@haskell.foundation](mailto:contact@haskell.foundation). We have many great projects in need of in-kind support or financial contributions. We do not have donor tiers for individuals at this time.
 
     ### How to Donate
 
-    Contact us directly at *donations@haskell.foundation* to find out more about how you can support Haskell and the **Haskell Foundation**.
+    Contact us directly at [donations@haskell.foundation](mailto:donations@haskell.foundation) to find out more about how you can support Haskell and the **Haskell Foundation**.
 ---
