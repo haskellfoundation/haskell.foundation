@@ -3,14 +3,10 @@ home_title: en (English) index page content
 home_content:
   home_video_id: re96UgMk6GQ
   home_intro: |
-    Haskell is not “just another programming language”: it embodies a radical and elegant attack on the entire enterprise of writing software. 
-    
-    Purely functional programming is based on values rather than state, and is rigorously explicit about side effects (the source of so many bugs in production). 
-    
-    Haskell is profoundly influencing the world of software for the better.
+    Haskell is not “just another programming language”: it embodies a radical and elegant attack on the entire enterprise of writing software. It profoundly influences the world of software for the better.
 
   home_claim: |
-    The Haskell Foundation seeks to articulate the benefits of functional programming to a much broader audience, to erase barriers to entry, and to make Haskell into a solidly reliable basis for mission critical applications.
+    **The Haskell Foundation** seeks to articulate the benefits of functional programming to a much broader audience, to erase barriers to entry, and to make Haskell into a solidly reliable basis for mission critical applications.
 
   home_goals:
     home_goals_title: "The Haskell Foundation pursues its goals with a strong ethos based on:"
