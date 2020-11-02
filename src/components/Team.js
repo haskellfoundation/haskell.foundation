@@ -9,15 +9,20 @@ const AvatarLarge = styled(Image)`
   width: 100px;
   height: 100px;
   border-radius: 99px;
-  margin-left:auto;
-  margin-right:auto;
-  display:block;
-  text-align:center;
-`
-const Titles = styled.div`
-  @media(max-width:960px) {
+  @media(max-width:1100px){
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
     text-align:center;
   }
+`
+const Titles = styled.div`
+  @media(max-width:1100px) {
+    text-align:center;
+  }
+`
+const Member = styled(Card)`
+  padding-bottom: 4rem;
 `
 
 export default () => (
@@ -26,14 +31,14 @@ export default () => (
       <Grid spacing={4} container>
         {content.team.map((member) => {
           return (
-            <Grid item xs={6} key={member.name}>
-              <Card elevation={2}>
+            <Grid item sm={6} xs={12} pb={5} key={member.name}>
+              <Member pb={5} elevation={2}>
                 <CardContent>
                   <Grid container>
-                    <Grid item sm={4} xs={12}>
+                    <Grid item md={3} sm={12} xs={12}>
                       <AvatarLarge fluid={member.avatar.childImageSharp.fluid} />
                     </Grid>
-                    <Grid item sm={8} xs={12}>
+                    <Grid item md={9} sm={12} xs={12}>
                       <Titles>
                         <Typography gutterBottom variant='h5' component='h2'>
                           {member.name}
@@ -53,7 +58,7 @@ export default () => (
                     </Grid>
                   </Grid>
                 </CardContent>
-              </Card>
+              </Member>
             </Grid>
           )
         })
