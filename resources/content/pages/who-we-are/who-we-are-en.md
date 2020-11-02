@@ -17,9 +17,7 @@ about_content:
     Foundation. The [board of directors](/board-of-directors) are responsible
     for managing. The *interim board* will serve the Haskell Foundation
     during it's initial launch phase and will manage the establishment of the
-    first full board.
-
-    
+    first full board.    
   team: 
   - name: Simon Peyton Jones
     location: UK

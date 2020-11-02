@@ -16,12 +16,12 @@ const Page = ({ children, title }) => {
       <Container maxWidth='lg'>
         <Box marginTop={8} marginBottom={0}>
           <Grid container spacing={4}>
-            <Grid item lg={3}>
+            <Grid item lg={12}>
               <Box marginTop={0} marginBottom={0}>
                 <Typography variant='h1' color='primary'>{title}</Typography>
               </Box>
             </Grid>
-            <Grid item lg={9}>
+            <Grid item lg={12}>
               <Box marginTop={1} marginBottom={0}>
                 {children}
               </Box>

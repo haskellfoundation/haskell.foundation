@@ -1,6 +1,74 @@
 # Haskell Foundation website
 
-## Based on the IOHK Gatsby Starter
+[Gatsby](//www.gatsbyjs.com) based website.
+
+### Installation
+
+Download and install Gatsby locally. Go using command line to the folder root and type:
+
+```
+npm i
+```
+
+
+### Run the website on localhost
+
+```
+npm start
+```
+
+### Build the website into the /build/ folder
+
+Creates HTML export from the Gatsbsy engine.
+
+```
+npm run build
+```
+
+
+### Adding custom pages
+```
+npm run create-pages -- /custom-page/
+```
+
+
+### Removing custom pages
+```
+npm run delete-pages -- /custom-page/
+```
+
+
+### Editing top navigation
+
+Open file `resources/content/global/global-en.md` and add or delete items from `global_navigation:`. `global_navigation_item_title:` is for the link text. `global_navigation_item_link:` is for the page path. Be sure to have it identical to the page name you created before.
+
+Example:
+
+```
+    - global_navigation_item_title: Custom page
+      global_navigation_item_link: /custom-page/
+
+```
+
+
+### Adding files to link (images, documents)
+
+Add your files to `/static/images/`. Your files can be then linked on path `/images/...`.
+
+Example: Adding file with filename niceimage.jpg to `/static/images/` will have its path on `/images/niceimage.jpg`. Which is what you use for the link. In HTML:
+
+```
+<img src='/images/niceimage.jpg' alt='Nice image' />
+```
+
+In markdown:
+
+```
+![Nice image](/images/niceimage.jpg)
+```
+
+
+## More about IOHK Gatsby Starter
 
 If you use VisualStudio Code then it's recommended that you download the [code tour](https://github.com/vsls-contrib/code-tour) extension to make use of the guided tours of the codebase. Otherwise the documentation below should be sufficient. The tours will be setup on `npm install`.
 

@@ -1,7 +1,7 @@
 ---
-about_title: en (English) Board of Directors Nominations
+about_title: en (English) Board of Directors
 about_content:
-  about_page_title: Board of Directors Nominations
+  about_page_title: Board of Directors
   about_page_content: |
 
     ### The Haskell Foundation Board of Directors
