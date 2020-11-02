@@ -6,17 +6,16 @@ about_content:
 
     ### Haskell Foundation Executive Director
 
-    The Board of Directors is currently seeking an Executive Directory. The
+    The Board of Directors is currently seeking an Executive Director. The
     Haskell Foundation's executive director will oversee the daily operations
     of the foundation.
 
     ### The Haskell Foundation Interim Board of Directors
 
-    The Haskell Foundation board of directors is a group of individuals who are
+    The Haskell Foundation [board of directors](/board-of-directors) is a group of individuals who are
     responsible for managing and setting the direction of the Haskell
-    Foundation. The [board of directors](/board-of-directors) are responsible
-    for managing. The *interim board* will serve the Haskell Foundation
-    during it's initial launch phase and will manage the establishment of the
+    Foundation. The *interim board* will serve the Haskell Foundation
+    during its initial launch phase and will manage the establishment of the
     first full board.
 
     #### Members of the Interim Board of Directors
@@ -24,25 +23,25 @@ about_content:
     | ![A photo of Simon Peyton Jones](../../images/board-bio/spj.png) |
     |--|
     |**Simon Peyton Jones**|
-    |I’m a researcher at Microsoft Research in Cambridge, England. I   |
-    |started here in Sept 1998. I’m also an Honorary Professor of the  |
-    |Computing Science Department at Glasgow University, where I was a |
-    |professor during 1990-1998.                                       |
+    |Simon is a researcher at Microsoft Research in Cambridge, England.|
+    |He started there in Sept 1998. He’s also an Honorary Professor of |
+    |the Computing Science Department at Glasgow University, where he  |
+    |was a professor during 1990-1998.                                 |
     |                                                                  |
-    |I am married to Dorothy, a priest in the Church of England. We    |
-    |have six children.                                                |
+    |Simon is married to Dorothy, a priest in the Church of England.   |
+    |They have six children.                                           |
     |                                                                  |
-    |I’m interested in the design, implementation, and application of  |
-    |lazy functional languages. In practical terms, that means I spend |
-    |a most of my time on the design and implementation of the         |
-    |language Haskell. In particular, much of my work is focused       |
+    |Simon is interested in the design, implementation, and application|
+    |of lazy functional languages. In practical terms, that means he   |
+    |spends a most of my time on the design and implementation of the  |
+    |language Haskell. In particular, much of his work is focused      |
     |around the Glasgow Haskell Compiler, and its ramifications.       |
     |                                                                  |
-    |I am chair of Computing at School, the group at the epicentre of  |
-    |the reform of the national curriculum for Computing in England.   |
-    |Computer science is now a foundational subject, alongside maths   |
-    |and natural science, that every child learns from primary school  |
-    |onwards (background here).                                        |
+    |Simon is also chair of Computing at School, the group at the      |
+    |epicentre of the reform of the national curriculum for Computing  |
+    |in England. Computer science is now a foundational subject,       |
+    |alongside maths and natural science, that every child learns from |
+    |primary school onwards.                                           |
 
     | ![A photo of Chris Dornan](../../images/board-bio/Chris.Dornan.png) |
     |--|
@@ -59,16 +58,16 @@ about_content:
     | ![Gabriele Keller](../../images/board-bio/gk.png) |
     |--|
     |**Gabriele Keller**|
-    |I’m a Professor of Software Technology in the Department of       |
-    |Information and Computing Sciences. My research focuses on how    |
+    |Gabriele is Professor of Software Technology in the Department of |
+    |Information and Computing Sciences. Her research focuses on how   |
     |programming languages can be used to improve the quality of       |
     |software. Conventional software testing is very important, but    |
-    |can’t guarantee the absence of errors. We are addressing this     |
-    |problem in our research on developing and using programming       |
+    |can’t guarantee the absence of errors. She is addressing this     |
+    |problem in her research on developing and using programming       |
     |languages that are based on mathematical theory, so we can prove  |
-    |that a program will work in all scenarios. We call it             |
+    |that a program will work in all scenarios. Call it                |
     |‘correctness by construction’. The real world significance is     |
-    |obvious: it saves a lot of time and it eliminates errors so which |
+    |obvious: it saves a lot of time and it eliminates errors, so which|
     |company wouldn’t want it?                                         |
 
     | ![Jasper Van der Jeugt](../../images/board-bio/jv.png) |
@@ -83,15 +82,15 @@ about_content:
     | ![Edward Kmett](../../images/board-bio/ed.kmett.png) |
     |--|
     |**Edward Kmett**|
-    |I spent most of my adult life trying to build reusable code in    |
-    |imperative languages before realizing I was building castles in   |
-    |sand. I converted to Haskell in 2006 while searching for better   |
-    |building materials. I now chair the Haskell core libraries        |
-    |committee, collaborate with hundreds of other developers on over  |
-    |200 projects on github, and I am obsessed with finding better     |
-    |tools so that seven years from now I won’t be stuck solving the   |
-    |same problems with small variations on the same tools I was stuck |
-    |using seven years ago.                                            |
+    |Edward spent most of his adult life trying to build reusable code |
+    |in imperative languages before realizing he was building castles  |
+    |in sand. He converted to Haskell in 2006 while searching for      |
+    |better building materials. He has sinced chaired the Haskell core |
+    |libraries committee, collaborated with hundreds of other          |
+    |developers on over 200 projects on github, and is obsessed with   |
+    |finding better tools so that seven years from now we won’t be     |
+    |stuck solving the same problems with small variations on the same |
+    |tools we were stuck using seven years ago.                        |
 
     | ![Stephanie Weirich](../../images/board-bio/sw.png) |
     |--|
@@ -153,7 +152,7 @@ about_content:
     We believe that this will help us grow towards being a more open and
     welcoming community.
 
-    The following groups affiliated with the Haskell Foundation:
+    The following groups have affiliated with the Haskell Foundation:
 
      -  The [Haskell IDE Team](https://github.com/haskell/haskell-language-server)
      -  The [GHC Steering Committee](https://github.com/ghc-proposals/ghc-proposals)

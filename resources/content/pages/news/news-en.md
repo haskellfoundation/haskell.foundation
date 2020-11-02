@@ -9,7 +9,10 @@ news_content:
 
     #### 05 November, 2020
 
-    Today Simon Peyton-Jones announced the formation of The Haskell Foundation, a non-profit organization focused on increasing adoption of the Haskell programming language. Name Pending will serve as the Executive Director of the new foundation, alongside interim board members Simon Peyton-Jones, Simon Marlow, and Ed Kmett.
+    Today Simon Peyton Jones announced the formation of The Haskell Foundation, a non-profit organization focused on increasing adoption of the Haskell programming language. There is
+    an ongoing search for the Executive Director of the new foundation, who will
+    serve alongside interim board members Simon Peyton Jones, Chris Dornan, Gabriele Keller, Jasper Van der Jeugt, Simon Marlow, Ed Kmett, Stephanie Weirich, and Lennart Augustsson.
+    
     Haskell.org Committee Announces Haskell Foundation Affiliation
 
     #### 05 November, 2020
