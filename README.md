@@ -1,5 +1,7 @@
 # Haskell Foundation website
 
+[Gatsby](//www.gatsbyjs.com) based website.
+
 ### Installation
 
 Download and install Gatsby locally. Go using command line to the folder root and type:
