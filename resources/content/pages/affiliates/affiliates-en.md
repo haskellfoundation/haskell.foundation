@@ -3,6 +3,7 @@ about_title: en (English) affiliates page content
 about_content:
   about_page_title: Affiliates
   about_page_content: |
+    ### Affiliates
 
     We invite existing Haskell projects, committees and communities to
     explicitly affiliate and align themselves with the Haskell Foundation.
@@ -40,5 +41,4 @@ about_content:
     #### Volunteers
 
     This is a placeholder for space we will use to include key volunteers who are not on the board or with one of the affiliated committees.
-
 ---
