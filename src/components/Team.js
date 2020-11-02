@@ -40,7 +40,7 @@ export default () => (
                     </Grid>
                     <Grid item md={9} sm={12} xs={12}>
                       <Titles>
-                        <Typography gutterBottom variant='h5' component='h2'>
+                        <Typography gutterBottom variant='h4' component='h2'>
                           {member.name}
                         </Typography>
                         <Typography gutterBottom variant='h5' component='span'>
@@ -52,7 +52,7 @@ export default () => (
                         </Typography>
                         <hr />
                       </Titles>
-                      <Typography variant='body2' color='textSecondary' component='p'>
+                      <Typography variant='body' color='textPrimary' component='p'>
                         {member.description}
                       </Typography>
                     </Grid>
