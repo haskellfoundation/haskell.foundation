@@ -107,7 +107,7 @@ const theme = extendDefaultTheme({
     fontDisplay: 'swap',
     googleFontsURL: 'https://fonts.googleapis.com/css?family=Chivo:300,400,700',
     h1: {
-      fontSize: 2,
+      fontSize: 3,
       fontWeight: 300,
       lineHeight: 1.1,
       letterSpacing: -0.1,
