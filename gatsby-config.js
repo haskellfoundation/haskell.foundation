@@ -31,6 +31,14 @@ module.exports = {
       }
     },
     {
+      resolve: 'gatsby-plugin-your-fonts',
+      options: {
+        fonts: [
+          `gibson.css`
+        ]
+      }
+    },
+    {
       resolve: `gatsby-plugin-material-ui`,
       options: {
         stylesProvider: {
