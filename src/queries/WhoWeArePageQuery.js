@@ -29,6 +29,7 @@ const WhoWeArePageQuery = ({ render }) => (
                       description
                       role
                     }
+                      about_page_content_above
                       about_page_content
                     }
                   }

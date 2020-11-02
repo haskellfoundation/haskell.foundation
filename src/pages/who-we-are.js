@@ -12,6 +12,9 @@ export default () => (
       <Layout>
         <Page title={content.about_page_title}>
           <Grid container spacing={2}>
+            <Grid item xs={12}>
+              <Markdown source={content.about_page_content_above} />
+            </Grid>
             <Team />
             <Grid item xs={12}>
               <Markdown source={content.about_page_content} />
