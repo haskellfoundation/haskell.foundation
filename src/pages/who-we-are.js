@@ -4,6 +4,7 @@ import Layout from '../components/Layout'
 import Page from '../components/Page'
 import WhoWeArePageQuery from '../queries/WhoWeArePageQuery'
 import Markdown from '@input-output-hk/front-end-core-components/components/Markdown'
+import Team from '../components/Team'
 
 export default () => (
   <WhoWeArePageQuery
@@ -11,6 +12,10 @@ export default () => (
       <Layout>
         <Page title={content.about_page_title}>
           <Grid container spacing={2}>
+            <Grid item xs={12}>
+              <Markdown source={content.about_page_content_above} />
+            </Grid>
+            <Team />
             <Grid item xs={12}>
               <Markdown source={content.about_page_content} />
             </Grid>
