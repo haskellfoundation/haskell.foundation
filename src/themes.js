@@ -102,49 +102,54 @@ const theme = extendDefaultTheme({
   typography: {
     baseFontSize: 18,
     lineHeight: 1.6,
-    fontWeight: 400,
-    fontFamily: 'Chivo, sans-serif',
+    fontWeight: 'normal',
+    fontFamily: 'Gibson Light, sans-serif',
     fontDisplay: 'swap',
-    googleFontsURL: 'https://fonts.googleapis.com/css?family=Chivo:300,400,700',
     h1: {
       fontSize: 3,
-      fontWeight: 300,
+      fontWeight: 'normal',
       lineHeight: 1.1,
       letterSpacing: -0.1,
+      fontFamily: 'Gibson Bold',
       textTransform: 'capitalize'
     },
     h2: {
       fontSize: 1.4,
-      fontWeight: 500,
+      fontWeight: 'normal',
       letterSpacing: 0.05,
       lineHeight: 1.2,
+      fontFamily: 'Gibson Regular',
       textTransform: 'capitalize'
     },
     h3: {
       fontSize: 1.3,
-      fontWeight: 700,
+      fontWeight: 'normal',
       lineHeight: 1.2,
       letterSpacing: 0.05,
+      fontFamily: 'Gibson Regular',
       textTransform: 'capitalize'
     },
     h4: {
       fontSize: 1.1,
-      fontWeight: 700,
+      fontWeight: 'normal',
       letterSpacing: 0.05,
       lineHeight: 1.2,
+      fontFamily: 'Gibson Bold',
       textTransform: 'capitalize'
     },
     h5: {
       fontSize: 0.7,
-      fontWeight: 700,
+      fontWeight: 'normal',
       letterSpacing: 0.15,
       lineHeight: 1.4,
+      fontFamily: 'Gibson Bold',
       textTransform: 'uppercase'
     },
     h6: {
       fontSize: 0.6,
-      fontWeight: 700,
+      fontWeight: 'normal',
       lineHeight: 1.4,
+      fontFamily: 'Gibson Bold',
       textTransform: 'uppercase'
     },
     body: {

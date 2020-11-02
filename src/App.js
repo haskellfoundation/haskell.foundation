@@ -7,6 +7,7 @@ import { Provider as LinkProvider } from '@input-output-hk/front-end-core-compon
 import Styles from '@input-output-hk/front-end-site-components/components/Styles'
 import { ThemeProvider as MaterialUIThemeProvider } from '@material-ui/core/styles'
 import { ThemeProvider as StyledThemeProvider } from 'styled-components'
+import GlobalStyles from './GlobalStyles.js'
 import { analytics, theme } from '@input-output-hk/front-end-core-libraries'
 import { navigate, Link as GatsbyLink } from 'gatsby'
 import config from './config'
@@ -93,6 +94,7 @@ const App = ({ element }) => {
                       {({ key: lang }) => (
                         <LinkProvider lang={lang} component={Link}>
                           <Styles theme={originalTheme.config} />
+                          <GlobalStyles />
                           <Router>
                             {getRoutes(lang)}
                             <DefaultRoute default element={element} />
