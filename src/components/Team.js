@@ -26,14 +26,14 @@ export default () => (
       <Grid spacing={4} container>
         {content.team.map((member) => {
           return (
-            <Grid item xs={12} key={member.name}>
-              <Card variant='outlined' elevation={2}>
+            <Grid item xs={6} key={member.name}>
+              <Card elevation={2}>
                 <CardContent>
                   <Grid container>
-                    <Grid item sm={2} xs={12}>
+                    <Grid item sm={4} xs={12}>
                       <AvatarLarge fluid={member.avatar.childImageSharp.fluid} />
                     </Grid>
-                    <Grid item sm={10} xs={12}>
+                    <Grid item sm={8} xs={12}>
                       <Titles>
                         <Typography gutterBottom variant='h5' component='h2'>
                           {member.name}
