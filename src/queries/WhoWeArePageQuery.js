@@ -16,6 +16,20 @@ const WhoWeArePageQuery = ({ render }) => (
                   frontmatter {
                     about_content {
                       about_page_title
+                      team {
+                      name
+                      location
+                      avatar {
+                        childImageSharp {
+                          fluid {
+                            ...GatsbyImageSharpFluid
+                          }
+                        }
+                      }
+                      description
+                      role
+                    }
+                      about_page_content_above
                       about_page_content
                     }
                   }

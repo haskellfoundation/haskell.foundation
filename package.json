@@ -71,6 +71,7 @@
     "eslint-plugin-react": "^7.19.0",
     "eslint-plugin-standard": "^4.0.1",
     "express": "^4.17.1",
+    "gatsby-plugin-your-fonts": "^0.0.1",
     "portfinder": "^1.0.25",
     "react-icons": "^3.11.0",
     "webpack": "^4.42.1",
