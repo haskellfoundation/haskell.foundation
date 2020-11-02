@@ -14,6 +14,11 @@ const AvatarLarge = styled(Image)`
   display:block;
   text-align:center;
 `
+const Titles = styled.div`
+  @media(max-width:960px) {
+    text-align:center;
+  }
+`
 
 export default () => (
   <WhoWeArePageQuery
@@ -25,20 +30,23 @@ export default () => (
               <Card variant='outlined' elevation={2}>
                 <CardContent>
                   <Grid container>
-                    <Grid item xs={2} alignItems='center' justifyContent='center'>
+                    <Grid item sm={2} xs={12}>
                       <AvatarLarge fluid={member.avatar.childImageSharp.fluid} />
                     </Grid>
-                    <Grid item xs={10}>
-                      <Typography gutterBottom variant='h5' component='h2'>
-                        {member.name}
-                      </Typography>
-                      <Typography gutterBottom variant='h5' component='span'>
-                        {member.role && member.role}
-                      </Typography>
-                      {member.role && member.location ? ' - ' : ''}
-                      <Typography gutterBottom variant='h5' component='span'>
-                        {member.location && member.location}
-                      </Typography>
+                    <Grid item sm={10} xs={12}>
+                      <Titles>
+                        <Typography gutterBottom variant='h5' component='h2'>
+                          {member.name}
+                        </Typography>
+                        <Typography gutterBottom variant='h5' component='span'>
+                          {member.role && member.role}
+                        </Typography>
+                        {member.role && member.location ? ' - ' : ''}
+                        <Typography gutterBottom variant='h5' component='span'>
+                          {member.location && member.location}
+                        </Typography>
+                        <hr />
+                      </Titles>
                       <Typography variant='body2' color='textSecondary' component='p'>
                         {member.description}
                       </Typography>
