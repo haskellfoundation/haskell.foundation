@@ -15,7 +15,7 @@ about_content:
     We believe that this will help us grow towards being a more open and
     welcoming community.
 
-    The following groups affiliated with the Haskell Foundation:
+    The following groups are affiliated with the Haskell Foundation:
 
      -  The [Haskell IDE Team](https://github.com/haskell/haskell-language-server)
      -  The [GHC Steering Committee](https://github.com/ghc-proposals/ghc-proposals)
@@ -34,11 +34,4 @@ about_content:
     something by _all of us_.  Please [contact](/en/contact/) us if you are
     interested in joining us in our quest to make Haskell better for everyone.
 
-    #### The Hackage Trustees
-
-    Placeholder text until the Hackage Trustees provide an official statement.
-
-    #### Volunteers
-
-    This is a placeholder for space we will use to include key volunteers who are not on the board or with one of the affiliated committees.
 ---
