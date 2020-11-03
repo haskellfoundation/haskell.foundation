@@ -3,7 +3,7 @@ home_title: en (English) index page content
 home_content:
   home_video_id: MEmRarBL9kw
   home_intro: |
-    We're getting started! Watch Simon Peyton Jones announce the Haskell Foundation (HF) at the Haskell eXchange conference on November 4, 2020. In this talk, Simon will talk about why we are launching this new organization, its goals. At the end, he is joined by a panel of HF volunteers to takes questions from the audience.
+    We're getting started! Watch Simon Peyton Jones announce the Haskell Foundation (HF) at the Haskell eXchange conference on November 4, 2020. In this talk, Simon talks about why we are launching this new organization and its goals. At the end, he is joined by a panel of HF volunteers to take questions from the audience. 
     
   home_claim: |
     Haskell is not “just another programming language”: it embodies a radical and elegant attack on the entire enterprise of writing software. It profoundly influences the world of software for the better. The Haskell Foundation (HF) is an independent, non-profit organization dedicated to broadening the adoption of Haskell, by supporting its ecosystem of tools, libraries, education, and research. 
