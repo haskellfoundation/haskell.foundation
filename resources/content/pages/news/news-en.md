@@ -14,7 +14,7 @@ news_content:
 
     #### Haskell Foundation Announced
 
-    Today Simon Peyton-Jones announced the formation of The Haskell Foundation, a non-profit organization focused on increasing adoption of the Haskell programming language. Watcht the announcemnt [here](https://youtu.be/MEmRarBL9kw).
+    Today Simon Peyton-Jones announced the formation of The Haskell Foundation, a non-profit organization focused on increasing adoption of the Haskell programming language. Watch the announcemnt [here](https://youtu.be/MEmRarBL9kw).
     
     #### Haskell Foundation Board of Directors Call for Nominations
 
