@@ -11,7 +11,7 @@ about_content:
     Foundation, and that the Haskell Foundation in turn supports this group.
     We require affiliated groups to adhere to guidelines around transparency,
     being open to new members, and follow the
-    [Haskell committee guidelines for respectful communication](https://github.com/ghc-proposals/ghc-proposals/blob/master/GRC.rst).
+    [Haskell committee guidelines for respectful communication](/guidelines-for-respectful-communication).
     We believe that this will help us grow towards being a more open and
     welcoming community.
 
