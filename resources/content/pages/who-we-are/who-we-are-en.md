@@ -12,7 +12,7 @@ about_content:
     first full board in early 2021.
   team:
   - name: Simon Peyton Jones
-    location: UK
+    location: Chair
     avatar: './images/spj.png'
     description: |
       Simon is a researcher at Microsoft Research in Cambridge, England.
@@ -36,7 +36,7 @@ about_content:
       primary school onwards.
     role:
   - name: Chris Dornan
-    location: UK
+    location: Interim Board Member
     avatar: './images/cd.png'
     description: |
       Chris has been interested in Haskell since the early reports and
@@ -49,7 +49,7 @@ about_content:
       in the back end.
     role:
   - name: Gabriele Keller
-    location: USA
+    location:  Interim Board Member
     avatar: './images/gk.png'
     description: |
       Gabriele is Professor of Software Technology in the Department of
@@ -65,7 +65,7 @@ about_content:
       company wouldn’t want it?
     role:
   - name: Jasper Van er Jeugt
-    location:
+    location:  Interim Board Member
     avatar: './images/jv.png'
     description: |
       Jasper is a Principal Engineer at Fugue, a cloud security startup.
@@ -75,7 +75,7 @@ about_content:
       currently chairs the Haskell.org committee.
     role: ''
   - name: Edward Kmett
-    location:
+    location:  Interim Board Member
     avatar:  './images/ek.png'
     description: |
       Edward spent most of his adult life trying to build reusable code
@@ -89,7 +89,7 @@ about_content:
       tools we were stuck using seven years ago.
     role:
   - name: Stephanie Weirich
-    location:
+    location:  Interim Board Member
     avatar: './images/sw.png'
     description: |
       Stephanie Weirich is an American computer scientist specializing
@@ -106,7 +106,7 @@ about_content:
       Pennsylvania faculty in 2002.
     role:
   - name: Simon Marlow
-    location:
+    location:  Interim Board Member
     avatar:  './images/sm.png'
     description: |
       Simon Marlow is a British computer programmer, author, and
@@ -120,7 +120,7 @@ about_content:
       that simplifies access to remote data.
     role:
   - name: Lennart Augustsson
-    location:
+    location:  Interim Board Member
     avatar: './images/la.png'
     description: |
       Lennart Augustsson is a Swedish computer scientist. He was
