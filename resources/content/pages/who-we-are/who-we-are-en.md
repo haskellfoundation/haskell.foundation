@@ -4,20 +4,12 @@ about_content:
   about_page_title: Who We Are
   about_page_content_above: |
 
-    ### Haskell Foundation Executive Director
-
-    The Board of Directors is currently seeking an Executive Directory. The
-    Haskell Foundation's executive director will oversee the daily operations
-    of the foundation.
-
     ### The Haskell Foundation Interim Board of Directors
 
-    The Haskell Foundation board of directors is a group of individuals who are
+    The Haskell Foundation [board of directors](/board-of-directors) are
     responsible for managing and setting the direction of the Haskell
-    Foundation. The [board of directors](/board-of-directors) are responsible
-    for managing. The *interim board* will serve the Haskell Foundation
-    during it's initial launch phase and will manage the establishment of the
-    first full board.    
+    Foundation. HF's current board will serve on an interim basis during the launch phase and will manage the establishment of the
+    first full board in early 2021.    
   team: 
   - name: Simon Peyton Jones
     location: UK
