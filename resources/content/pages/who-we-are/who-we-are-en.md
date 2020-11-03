@@ -12,7 +12,7 @@ about_content:
     first full board in early 2021.
   team:
   - name: Simon Peyton Jones
-    location: UK
+    location:
     avatar: './images/spj.png'
     description: |
       Simon is a researcher at Microsoft Research in Cambridge, England.
@@ -36,7 +36,7 @@ about_content:
       primary school onwards.
     role:
   - name: Chris Dornan
-    location: UK
+    location:
     avatar: './images/cd.png'
     description: |
       Chris has been interested in Haskell since the early reports and
@@ -49,7 +49,7 @@ about_content:
       in the back end.
     role:
   - name: Gabriele Keller
-    location: USA
+    location:
     avatar: './images/gk.png'
     description: |
       Gabriele is Professor of Software Technology in the Department of
