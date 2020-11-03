@@ -39,6 +39,6 @@ global_content:
       image: "./logos/obsidian.png"
       link: "https://obsidian.systems/"
   footer_copy: |
-    If you are interested in learning more about the haskell foundation, volunteering, or donating please contact us by email at *contact@haskell.foundation*
+    To learn more about the Haskell Foundation [contact](/en/contact/) us.
 
 ---
