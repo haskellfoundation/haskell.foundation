@@ -13,7 +13,7 @@ global_content:
       global_navigation_item_link: /contact/
     - global_navigation_item_title: News
       global_navigation_item_link: /news/
-    - global_navigation_item_title: Donations
+    - global_navigation_item_title: Sponsorship
       global_navigation_item_link: /donations/
     - global_navigation_item_title: Resources
       global_navigation_item_link: /resources/
