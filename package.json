@@ -50,7 +50,8 @@
     "postinstall": "./scripts/post-install.sh",
     "start": "npm run develop",
     "serve": "node ./scripts/serve",
-    "watch:netlify": "NODE_ENV=development npm run build:netlify -- --watch"
+    "watch:netlify": "NODE_ENV=development npm run build:netlify -- --watch",
+    "preload-fonts": "gatsby-preload-fonts"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
@@ -71,6 +72,7 @@
     "eslint-plugin-react": "^7.19.0",
     "eslint-plugin-standard": "^4.0.1",
     "express": "^4.17.1",
+    "gatsby-plugin-preload-fonts": "^1.2.29",
     "gatsby-plugin-your-fonts": "^0.0.1",
     "portfinder": "^1.0.25",
     "react-icons": "^3.11.0",
