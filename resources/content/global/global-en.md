@@ -38,6 +38,9 @@ global_content:
     - name: Obsidian Systems
       image: "./logos/obsidian.png"
       link: "https://obsidian.systems/"
+    - name: Flipstone
+      image: "./logos/flipstonetechnlogy.png"
+      link: "http://flipstone.com/"
   footer_copy: |
     To learn more about the Haskell Foundation [contact](/en/contact/) us.
 
