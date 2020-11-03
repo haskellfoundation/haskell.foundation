@@ -1,7 +1,7 @@
 ---
 home_title: en (English) index page content
 home_content:
-  home_video_id: re96UgMk6GQ
+  home_video_id: MEmRarBL9kw
   home_intro: |
     We're getting started! Watch Simon Peyton Jones announce the Haskell Foundation (HF) at the Haskell eXchange conference on November 4, 2020. In this talk, Simon will talk about why we are launching this new organization, its goals. At the end, he is joined by a panel of HF volunteers to takes questions from the audience.
     
