@@ -4,19 +4,25 @@ news_content:
   news_page_title: News
   news_page_content: |
 
-    ### Check us out on [Twitter](https://twitter.com/haskellfound)
+    ### How to follow HF Developments
+    
+    * Follow us on [Twitter](https://twitter.com/haskellfound).
+    * HF-announce: This list will have infrequent traffic announcing major news from the Haskell Foundation. It is expected that all messages will come from HF or its designees. 
+        - Subscribe: [https://mail.haskell.org/cgi-bin/mailman/listinfo/hf-announce](https://mail.haskell.org/cgi-bin/mailman/listinfo/hf-announce)
+        - Archives: [https://mail.haskell.org/pipermail/hf-announce/](https://mail.haskell.org/pipermail/hf-announce/).
+     * HF-discuss: The Haskell Foundation wants your help and participation, and joining this list is a great way to start. All participation is expected to conform to the [Guidelines for Respectful Communication](/guidelines-for-respectful-communication).         - Subscribe: [https://mail.haskell.org/cgi-bin/mailman/listinfo/hf-discuss](https://mail.haskell.org/cgi-bin/mailman/listinfo/hf-discuss)
+         - Archives: [https://mail.haskell.org/pipermail/hf-discuss/](https://mail.haskell.org/pipermail/hf-discuss/).
 
-    ### 05 November, 2020
+    ### 2020-11-05
 
     #### Haskell Foundation Announced
 
-    Today Simon Peyton-Jones announced the formation of The Haskell Foundation, a non-profit organization focused on increasing adoption of the Haskell programming language. Name Pending will serve as the Executive Director of the new foundation, alongside interim board members Simon Peyton-Jones, Simon Marlow, and Ed Kmett.
-    Haskell.org Committee Announces Haskell Foundation Affiliation
-
+    Today Simon Peyton-Jones announced the formation of The Haskell Foundation, a non-profit organization focused on increasing adoption of the Haskell programming language. Watcht the announcemnt [here](https://youtu.be/MEmRarBL9kw).
+    
     #### Haskell Foundation Board of Directors Call for Nominations
 
-    Today the Haskell Foundation announces that it has opened the [call for
-    nominations for the Board of Directors](/board-nominations). Nominations
-    will remain open until January 11, 2021. The nominations will be voted on by
-    the current [Interim Board of Directors](/who-we-are).
+    The Haskell Foundation has issued a [call for
+    nominations to the Board of Directors](/board-nominations). Nominations
+    will remain open until January 11, 2021. New Board members will be selected by
+    the interim members of the [Board of Directors](/who-we-are).
 ---
