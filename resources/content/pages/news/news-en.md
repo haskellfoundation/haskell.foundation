@@ -7,11 +7,8 @@ news_content:
     ### How to follow HF Developments
     
     * Follow us on [Twitter](https://twitter.com/haskellfound).
-    * HF-announce: This list will have infrequent traffic announcing major news from the Haskell Foundation. It is expected that all messages will come from HF or its designees. 
-         * Subscribe: [https://mail.haskell.org/cgi-bin/mailman/listinfo/hf-announce](https://mail.haskell.org/cgi-bin/mailman/listinfo/hf-announce)
-         * Archives: [https://mail.haskell.org/pipermail/hf-announce/](https://mail.haskell.org/pipermail/hf-announce/).
-     * HF-discuss: The Haskell Foundation wants your help and participation, and joining this list is a great way to start. All participation is expected to conform to the [Guidelines for Respectful Communication](/guidelines-for-respectful-communication).          * Subscribe: [https://mail.haskell.org/cgi-bin/mailman/listinfo/hf-discuss](https://mail.haskell.org/cgi-bin/mailman/listinfo/hf-discuss)
-         * Archives: [https://mail.haskell.org/pipermail/hf-discuss/](https://mail.haskell.org/pipermail/hf-discuss/).
+    * Join the HF-announce email list. This list will have infrequent traffic announcing major news from the Haskell Foundation. It is expected that all messages will come from HF or its designees. Subscribe [here](https://mail.haskell.org/cgi-bin/mailman/listinfo/hf-announce) and view the archives [here](https://mail.haskell.org/pipermail/hf-announce/).
+     * Join HF-discuss email list. Joining this list is a great way to discuss and participate. All participation is expected to conform to the [Guidelines for Respectful Communication](/guidelines-for-respectful-communication). Subscribe: [here](https://mail.haskell.org/cgi-bin/mailman/listinfo/hf-discuss) and view the archives [here (https://mail.haskell.org/pipermail/hf-discuss/).
 
     ### 2020-11-05
 
