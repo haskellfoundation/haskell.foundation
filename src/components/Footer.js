@@ -39,7 +39,7 @@ export default () => (
             </Grid>
             <Grid item md={1}>
               <Box textAlign='right'>
-                <Link href='https://twitter.com/simonpj0' target='_blank'><FaTwitter /></Link>
+                <Link href='https://twitter.com/haskellfound' target='_blank'><FaTwitter /></Link>
               </Box>
             </Grid>
           </Grid>
