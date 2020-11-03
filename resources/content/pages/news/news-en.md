@@ -8,7 +8,7 @@ news_content:
     
     * Follow us on [Twitter](https://twitter.com/haskellfound).
     * Join the HF-announce email list. This list will have infrequent traffic announcing major news from the Haskell Foundation. It is expected that all messages will come from HF or its designees. Subscribe [here](https://mail.haskell.org/cgi-bin/mailman/listinfo/hf-announce) and view the archives [here](https://mail.haskell.org/pipermail/hf-announce/).
-     * Join HF-discuss email list. Joining this list is a great way to discuss and participate. All participation is expected to conform to the [Guidelines for Respectful Communication](/guidelines-for-respectful-communication). Subscribe: [here](https://mail.haskell.org/cgi-bin/mailman/listinfo/hf-discuss) and view the archives [here (https://mail.haskell.org/pipermail/hf-discuss/).
+     * Join HF-discuss email list. Joining this list is a great way to discuss and participate. All participation is expected to conform to the [Guidelines for Respectful Communication](/guidelines-for-respectful-communication). Subscribe: [here](https://mail.haskell.org/cgi-bin/mailman/listinfo/hf-discuss) and view the archives [here](https://mail.haskell.org/pipermail/hf-discuss/).
 
     ### 2020-11-05
 
