@@ -46,6 +46,7 @@ module.exports = {
         }
       }
     },
+    'gatsby-plugin-preload-fonts',
     'gatsby-plugin-offline',
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp'
