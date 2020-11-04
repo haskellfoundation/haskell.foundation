@@ -64,7 +64,7 @@ about_content:
       obvious: it saves a lot of time and it eliminates errors, so which
       company wouldn’t want it?
     role:
-  - name: Jasper Van er Jeugt
+  - name: Jasper Van der Jeugt
     location:  Interim Board Member
     avatar: './images/jv.png'
     description: |
