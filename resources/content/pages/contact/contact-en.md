@@ -22,7 +22,7 @@ contact_content:
     Join HF-discuss email list. Joining this list is a great way to
     discuss and participate. All participation is expected to conform to
     the [Guidelines for Respectful
-    Communication](/guidelines-for-respectful-communication). Subscribe:
+    Communication](/guidelines-for-respectful-communication). Subscribe
     [here](https://mail.haskell.org/cgi-bin/mailman/listinfo/hf-discuss)
     and view the archives
     [here](https://mail.haskell.org/pipermail/hf-discuss/).
