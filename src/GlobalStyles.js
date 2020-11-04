@@ -33,7 +33,9 @@ export default createGlobalStyle`
   src: local('Gibson Bold'), url('/fonts/gibson-webfont/GibsonSemiBd.woff') format('woff');
   }
 
-
+  ul, ol {
+    margin-left: 3rem;
+  }
 
 
 ${'' /**
