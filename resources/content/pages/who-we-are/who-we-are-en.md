@@ -78,59 +78,55 @@ about_content:
     location:  Interim Board Member
     avatar:  './images/ek.png'
     description: |
-      Edward spent most of his adult life trying to build reusable code
-      in imperative languages before realizing he was building castles
-      in sand. He converted to Haskell in 2006 while searching for
-      better building materials. He has sinced chaired the Haskell core
-      libraries committee, collaborated with hundreds of other
-      developers on over 200 projects on github, and is obsessed with
-      finding better tools so that seven years from now we won’t be
-      stuck solving the same problems with small variations on the same
-      tools we were stuck using seven years ago.
+      Edward is a researcher focused on AI safety at the Machine
+      Intelligence Research Institute. He also sits on the board of the
+      Topos Institute, promoting category theory in industry as a tool for
+      exchanging ideas. Outside of Haskell he's worked on graphics and
+      special effects, telecommunications, finance, linguistics, and once
+      helped Taiwan point a big RADAR at China.
+
+      Edward found Haskell in 2006 and at the time mistakenly believed all
+      Haskellers were thoroughly fluent in category theory, so he started
+      blogging to this imaginary audience. A few years later his work on
+      lenses provided a more practical impetus for more folks to learn some
+      of these ideas, closing the circle. He currently maintains well over a
+      hundred Haskell libraries covering a rather wide swathe of topics and
+      isn't entirely sure how he backed himself in that position.
     role:
   - name: Stephanie Weirich
     location:  Interim Board Member
     avatar: './images/sw.png'
     description: |
-      Stephanie Weirich is an American computer scientist specializing
-      in type theory, type inference, dependent types, and functional
-      programming. She is a professor of computer science at the
-      University of Pennsylvania.
-      Weirich graduated magna cum laude in 1996 from Rice University,
-      with a bachelor's degree in computer science. At Rice, she
-      became interested in programming languages through an
-      undergraduate research project with Matthias Felleisen. She
-      moved to Cornell University for her graduate studies, completing
-      her Ph.D. in 2002. Her dissertation, Programming with Types,
-      was supervised by Greg Morrisett. She joined the University of
-      Pennsylvania faculty in 2002.
+      Stephanie Weirich is the ENIAC President's Distinguished Professor of
+      Computer and Information Science at the University of
+      Pennsylvania. Her research areas include functional programming, type
+      systems, machine-assisted theorem proving and dependent types.  She
+      and her students have made significant contributions to the design of
+      the type system of the Glasgow Haskell Compiler.  Dr. Weirich was
+      recognized by the SIGPLAN Milner Young Researcher award (2016), a
+      Microsoft Outstanding collaborator award, and a most influential ICFP
+      paper award (awarded in 2016, for 2006). She has served as the general
+      chair of ICFP 2020 and as the program chair of POPL 2018, ICFP 2010,
+      and the 2009 Haskell Symposium.
     role:
   - name: Simon Marlow
     location:  Interim Board Member
     avatar:  './images/sm.png'
     description: |
-      Simon Marlow is a British computer programmer, author, and
-      co-developer of the Glasgow Haskell Compiler (GHC). He and Simon
-      Peyton Jones won the SIGPLAN Programming Languages Software Award
-      in 2011 for their work on GHC. Marlow's book Parallel and
-      Concurrent Programming in Haskell was published in August 2013.
-      Formerly of Microsoft Research, Marlow has worked at Facebook
-      since March 2013. The "noted Haskell guru" is part of the team
-      behind Facebook's open source Haxl project, a Haskell library
-      that simplifies access to remote data.
+      Simon Marlow is a Software Engineer at Facebook in London.  He has
+      previously worked on Haxl, a Haskell-based domain-specific language
+      that is used by the teams fighting abuse on Facebook, and he is
+      currently working on Glean, a system to store and query facts about
+      source code at scale. Simon is a co-author of the Glasgow Haskell
+      Compiler, author of the book “Parallel and Concurrent Programming in
+      Haskell”, and has a string of research publications in functional
+      programming, language design, compilers, and language implementation.
     role:
   - name: Lennart Augustsson
     location:  Interim Board Member
     avatar: './images/la.png'
     description: |
-      Lennart Augustsson is a Swedish computer scientist. He was
-      previously a lecturer at the Computing Science Department at
-      Chalmers University of Technology. His research field is
-      functional programming and implementations of functional
-      languages.
-      Augustsson has worked for Carlstedt Research and Technology,
-      Sandburst, Credit Suisse, Standard Chartered Bank, Facebook, X
-      Development, Google and is currently employed by Epic Games.
-
+      Lennart has been using and implementing Haskell in various roles for
+      the last 30 years.  He currently works for Epic Games.
     role:
 ---
