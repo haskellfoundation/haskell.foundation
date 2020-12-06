@@ -1,4 +1,5 @@
 import notFound from './404'
+import edjobdescription from './ed-job-description'
 import faq from './faq'
 import resources from './resources'
 import donations from './donations'
@@ -17,5 +18,6 @@ export default [
   news,
   donations,
   resources,
-  faq
+  faq,
+  edjobdescription
 ]
