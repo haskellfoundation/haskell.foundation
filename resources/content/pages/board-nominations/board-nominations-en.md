@@ -31,7 +31,7 @@ about_content:
     * The Board needs to be big enough to have a breadth of expertise and representation, but small enough to be effective.  We will start with a Board of 12 members.
     * Once appointed, board members should act in the best interests of the Foundation and the entire Haskell community; they are not appointed to represent the interests of a particular group.
     * Members will have fixed terms, to ensure a steady turnover of members.  There is a balance here: it’s a pity to lose strong, well-qualified members too quickly.  The details remain to be settled, but will be something like: three or four year terms, but with the possibility of being renewed once, and the possibility of returning after a gap.
-    * Terms will be staggered so that a similar number of members reach the end of their term at regular intervals.  “Regular intervals” might mean annually or every two years; again there is a balance between providing a regular “way in” and the overheads of nomination, selection, and onboarding.To bootstrap this process the Interim Board may invite some members to serve for shorter initial terms.
+    * Terms will be staggered so that a similar number of members reach the end of their term at regular intervals.  “Regular intervals” might mean annually or every two years; again there is a balance between providing a regular “way in” and the overheads of nomination, selection, and onboarding. To bootstrap this process the Interim Board may invite some members to serve for shorter initial terms.
     * No two members should be paid employees of the same organisation
 
     The Executive Director reports to the board, attends all board
