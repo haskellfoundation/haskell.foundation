@@ -59,7 +59,7 @@ about_content:
 
     #### Principles and Ethos
 
-    How ​ we pursue the goals of HF is just as important as ​ what t ​ he goals are. HF’s actions will be guided by these core principles:
+    How ​ we pursue the goals of HF is just as important as ​ what the goals are. HF’s actions will be guided by these core principles:
 
     - **Open source**. Haskell is an open source community and HF will embrace the open-source ethos wholeheartedly. HF may develop, or sponsor the development of tools and infrastructure, but it will all be open source.
     - **Empowering the community**. A major goal of HF is to augment, celebrate, and coordinate the contributions and leadership of volunteers, not to supplant or replace them.
