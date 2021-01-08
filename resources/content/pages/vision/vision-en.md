@@ -1,8 +1,7 @@
 ---
-about_title: en (English) vision statement
-about_content:
-  about_page_title: Vision
-  about_page_content: |
+title: en (English) vision statement
+content:
+  default_content: |
 
     # Haskell Foundation vision
 
