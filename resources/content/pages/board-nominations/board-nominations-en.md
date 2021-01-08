@@ -15,17 +15,22 @@ about_content:
 
     #### Remit of the Board
 
-    The Board provides the strategic leadership for the Foundation.  More specifically
+    The Board provides the strategic leadership for the Foundation, and is the decision-making body for everything the Foundation does. More specifically
 
     * Governance: leadership and direction - set strategy, provide guidance
     * Staff: appoint senior members of Foundation staff
     * Define, curate and track Foundation goals
+    * Deploy the funds raised by the Foundation to support the Foundation’s goals.
     * Seek out opportunities to further the goals of the Foundation
     * Represent the Haskell community to the world: liaise with sponsors, public bodies (ACM, standards committees) etc
     * Ensure success and long-term continuity of the Foundation
     * Receive and review financial accounts
 
+    The Foundation will not supplant or replace the excellent work of existing groups. So, for example, the GHC Steering Group is responsible for making decisions about GHC proposals. Similarly, decisions about stack are taken by the stack team, and about Haddock are taken by the Haddock team.  The Board will hopefully influence these groups, and improve communication between them, but they remain individually responsible for decisions in their bailiwicks.
+
     #### Membership
+
+    Being a member of the Foundation Board means gives you the opportunity to contribute directly to the strategic direction of the Foundation, to help build the Haskell community, and to help promote the broader adoption of functional programming.
 
     * Being a member of the Board is not an honorary post; it involves real work.  There will typically be ad-hoc or permanent working groups, on which Board members are expected to serve or chair.
     * The Board needs to be big enough to have a breadth of expertise and representation, but small enough to be effective.  We will start with a Board of 12 members.
