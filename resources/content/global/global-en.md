@@ -7,6 +7,8 @@ global_content:
       global_navigation_item_link: /
     - global_navigation_item_title: Who we are
       global_navigation_item_link: /who-we-are/
+    - global_navigation_item_title: Vision
+      global_navigation_item_link: /vision/
     - global_navigation_item_title: Affiliates
       global_navigation_item_link: /affiliates/
     - global_navigation_item_title: Contact
