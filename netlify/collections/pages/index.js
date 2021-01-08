@@ -8,6 +8,7 @@ import contact from './contact'
 import whoweare from './who-we-are'
 import affiliates from './affiliates'
 import home from './home'
+import vision from './vision'
 
 export default [
   notFound,
@@ -19,5 +20,6 @@ export default [
   donations,
   resources,
   faq,
-  edjobdescription
+  edjobdescription,
+  vision
 ]
