@@ -45,7 +45,7 @@ ul {
     padding:1.5rem 0;
     text-transform: none;
     display:inline-block;
-    
+
     a {
       border-radius:50px;
       display:inline-block;
@@ -154,7 +154,7 @@ export default () => {
     <GlobalContentQuery
       render={(content) => (
         <AppBar position='static'>
-          <Container maxWidth='lg'>
+          <Container maxWidth='false'>
             <Hidden lgUp>
               <Grid container>
                 <FlexGrid item xs={11}>
