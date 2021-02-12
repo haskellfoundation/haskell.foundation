@@ -43,6 +43,9 @@ global_content:
     - name: Flipstone
       image: "./logos/flipstonetechnlogy.png"
       link: "http://flipstone.com/"
+    - name: Mercury
+      image: "./logos/mercury.png"
+      link: "https://mercury.com"
   footer_copy: |
     To learn more about the Haskell Foundation [contact](/en/contact/) us.
 
