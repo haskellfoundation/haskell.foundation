@@ -46,6 +46,9 @@ global_content:
     - name: Mercury
       image: "./logos/mercury.png"
       link: "https://mercury.com"
+    - name: EMQ
+      image: "./logos/emq.png"
+      link: "https://www.emqx.io/"
   footer_copy: |
     To learn more about the Haskell Foundation [contact](/en/contact/) us.
 
