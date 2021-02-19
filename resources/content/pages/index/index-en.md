@@ -40,13 +40,6 @@ home_content:
         * [Subscribe to HF-discuss](https://mail.haskell.org/cgi-bin/mailman/listinfo/hf-discuss)
         * View the [HF-discuss archives](https://mail.haskell.org/pipermail/hf-discuss/)
 
-    ### Haskell Foundation Board of Directors Call for Nominations
-
-    The Haskell Foundation has issued a [call for
-    nominations to the Board of Directors](/board-nominations). Nominations
-    will remain open until January 11, 2021. New Board members will be selected by
-    the interim members of the [Board of Directors](/who-we-are).
-
     ### [More News](/news)
 
 ---
